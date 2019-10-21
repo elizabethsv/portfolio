@@ -80,6 +80,7 @@ a{
   letter-spacing: .2em;
   text-shadow: 0 1px 0 rgba(black, .1);
   text-indent: .3em;
+  text-align:center;
 }
 .portfolio-title{
   position:relative;
@@ -320,8 +321,11 @@ iframe{
   padding:50px;
 }
 #skills-section>div{
-  display:flex;
-  flex-direction:row;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
 }
 #about-me-info p{
   margin: 50px;
@@ -395,8 +399,15 @@ iframe{
   padding:50px;
 
  }
- #header>h1{
+ .header>h1{
     font-size:2em;
+}
+#skills-section>div{
+  flex-wrap:wrap;
+  justify-content: center;
+}
+#skills-section img{
+  height:50px;
 }
   
   
