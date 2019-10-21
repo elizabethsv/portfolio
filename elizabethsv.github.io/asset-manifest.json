@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d98f82a6.chunk.css",
+    "main.js": "/static/js/main.2c33a810.chunk.js",
+    "main.js.map": "/static/js/main.2c33a810.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.7302273d.js",
+    "runtime~main.js.map": "/static/js/runtime~main.7302273d.js.map",
+    "static/js/2.b0e2ff7f.chunk.js": "/static/js/2.b0e2ff7f.chunk.js",
+    "static/js/2.b0e2ff7f.chunk.js.map": "/static/js/2.b0e2ff7f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f6f31bedc1999356263f5c60c3de29ec.js": "/precache-manifest.f6f31bedc1999356263f5c60c3de29ec.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d98f82a6.chunk.css.map": "/static/css/main.d98f82a6.chunk.css.map",
+    "static/media/PT_thumb.png": "/static/media/PT_thumb.216be677.png",
+    "static/media/App.css": "/static/media/watercolour.c36e8d0e.jpg",
+    "static/media/expressjs.svg": "/static/media/expressjs.0fb30b49.svg",
+    "static/media/javascript.svg": "/static/media/javascript.ce3847fe.svg",
+    "static/media/mongo.svg": "/static/media/mongo.d571053a.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.5c376133.svg",
+    "static/media/photoshop.svg": "/static/media/photoshop.94cf7fd8.svg",
+    "static/media/postgresql.svg": "/static/media/postgresql.24e4df49.svg",
+    "static/media/purple_thumb.png": "/static/media/purple_thumb.1b0d20fd.png",
+    "static/media/reactjs-icon.svg": "/static/media/reactjs-icon.70384772.svg",
+    "static/media/sass.svg": "/static/media/sass.5f87aa1a.svg",
+    "static/media/temp.png": "/static/media/temp.f6215514.png",
+    "static/media/thumbnail.jpg": "/static/media/thumbnail.2618d5e8.jpg",
+    "static/media/ticket_thumb.png": "/static/media/ticket_thumb.dac0700b.png"
+  }
+}
