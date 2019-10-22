@@ -11,7 +11,7 @@ export const Portfolio = () =>{
     return(
         <Wrapper>
             <div id='title'>Portfolio</div>
-        <div className="portfolio">
+        <div className="portfolio" id="portfolio">
                 <div className='thumbnail'>
                     <Link to="/purplemap">
                         <img src={purple_thumb} alt="Purple Map App Thumbnail"/>

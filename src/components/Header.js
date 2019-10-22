@@ -25,7 +25,8 @@ function HeadNav() {
             <div className={!nav ? 'overlay-display-none': 'overlay-menu'}>
                 
                 <Link to='/' onClick={handleClose}>Home</Link><br/>
-                <Link to='/portfolio' onClick={handleClose}>Portfolio</Link>
+                {/* <Link to='#title' onClick={handleClose}>Portfolio</Link> */}
+                {/* <a href="#portfolio">Portfolio</a> */}
                 <Link to='/about' onClick={handleClose}>About</Link>
             </div>
             
