@@ -380,15 +380,26 @@ iframe{
 
 }
 
-@media (min-width: 768px) and (max-width: 1200px) {
+@media (min-width: 950px) and (max-width: 1200px) {
   
    .project-details-container{
     background-position:bottom;
-    background-size:140%;
+    background-size:120%;
 
   }
   
  
+}
+
+@media (min-width: 767px) and (max-width: 949px) {
+  
+  .project-details-container{
+   background-position:bottom;
+   background-size:120%;
+
+ }
+ 
+
 }
 @media (min-width: 1200px) and (max-width: 1750px) {
   
