@@ -21,7 +21,7 @@ const About = () =>{
                    myself with solving new problems and learning new things.  
                </p>
                <div id="contact-div">
-                <div id="email"><a href = "mailto: vasquezelizabeth03@gmail.com">Get in touch</a></div>
+                <div id="email"><a href = "mailto: vasquezelizabeth03@gmail.com">E-Mail</a></div>
                 <div id="social"><a href="https://www.linkedin.com/in/elizabethsvasquez/">LinkedIn</a></div>
                 <div id="social"><a href="https://github.com/elizabethsv">GitHub</a></div>
                </div>
