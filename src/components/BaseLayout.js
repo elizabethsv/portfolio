@@ -1,5 +1,6 @@
 import React from 'react'
 import '../App.css';
+
 // import watercolour from './watercolour.jpg'
 import {Portfolio} from './Portfolio'
 
