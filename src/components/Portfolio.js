@@ -35,6 +35,7 @@ export const Portfolio = () =>{
                     </div>
                     </Link>
                 </div>
+
                 <div className='thumbnail'>
                     <Link to="/brokenstreetfighter">
                         <img src={streetfighter} alt="Broken Street Fighter Thumbnail"/>
@@ -44,6 +45,7 @@ export const Portfolio = () =>{
                     </div>
                     </Link>
                 </div>
+
                 <div className='thumbnail'>
                     <Link to="/ticketpug">
                     <img src={ticketthumb} alt="Ticket Pug Thumbnail"/>
@@ -54,10 +56,12 @@ export const Portfolio = () =>{
                 </div>
                     
                 <div className='thumbnail'>
+                    <a href="https://github.com/elizabethsv/clientmanagement">
                     <img src={PT_thumb} alt="Client Management Thumbnail"/>
                     <div className='overlay'>
                         <div className='text'>Client Management</div>
                     </div>
+                    </a>
                 </div>
 
         </div>
